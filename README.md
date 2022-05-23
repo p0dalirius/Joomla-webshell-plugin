@@ -74,6 +74,7 @@ You can also download a remote file from a browser with a GET request :
 
 When your webshell is active, you can now use the interactive [console.py](console.py) to execute commands and download remote files.
 
+https://user-images.githubusercontent.com/79218792/169823449-42289f27-70a0-460b-8f40-9cecda55e6f5.mp4
 
 ## References
  - https://docs.joomla.org/Special:MyLanguage/J3.x:Creating_a_simple_module/Developing_a_Basic_Module
